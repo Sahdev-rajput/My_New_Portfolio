@@ -1,4 +1,4 @@
-import { PhoneTwoTone, QuestionOutlined,BulbTwoTone,FilePdfTwoTone,MessageTwoTone} from '@ant-design/icons';
+import { PhoneTwoTone, QuestionOutlined,BulbTwoTone,FilePdfTwoTone} from '@ant-design/icons';
 import React, { useState } from 'react';
 import { FloatButton } from 'antd';
 import "./FloatButton.css"

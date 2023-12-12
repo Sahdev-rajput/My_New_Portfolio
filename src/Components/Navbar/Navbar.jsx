@@ -5,12 +5,9 @@ import {
   
   UserOutlined,
   HomeOutlined,
-  LaptopOutlined,
-  MoreOutlined,
   FileProtectOutlined,
   MailOutlined,
   ForwardOutlined,
-  MenuUnfoldOutlined,
 } from '@ant-design/icons';
 import { Button, Menu } from 'antd';
 function getItem(label, key, icon, children, type) {

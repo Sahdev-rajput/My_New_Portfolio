@@ -1,7 +1,7 @@
 import React from 'react';
 import Sahdev from "./Sahdev.jpg"
 import Description from './Description.jsx';
-import { Button, Card, Flex, Typography } from 'antd';
+import {Card, Flex } from 'antd';
 
 
 

@@ -1,5 +1,5 @@
-import React,{useState} from 'react';
-import { Card, Col, Row,Meta } from 'antd';
+import React from 'react';
+import {Col, Row } from 'antd';
 import './Project.css';
 import Stackoverflow from "./stackoverflow.jpeg"
 import weather from "./weather.jpeg"
@@ -8,10 +8,6 @@ import {GithubOutlined,LinkOutlined,ArrowRightOutlined} from "@ant-design/icons"
 
 
 const App = () => {
-    const sethoverbutton=()=>{
-        sethover(!hover);
-    };
-    const [hover, sethover] = useState(true)
    
     return(
   <div className='headline'>
