@@ -1,0 +1,9 @@
+.cardAbout
+{
+    display: flex;
+    flex-direction: row;
+}
+.describe
+{
+    font-size: 20px;
+}

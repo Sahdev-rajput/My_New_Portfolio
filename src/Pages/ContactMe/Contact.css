@@ -1,0 +1,11 @@
+.contact-body
+{
+    margin-top: 200px;
+    margin-bottom: 100px;
+}
+.github, .linkedin, .instagram, .mail
+{
+  font-size: 30px;
+  margin-left: 15px;
+  color:gray
+}
